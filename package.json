@@ -1,14 +1,8 @@
 {
   "name": "babel-preset-topxel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Topxel's Babel preset.",
-  "keywords": [
-    "babel",
-    "preset",
-    "config",
-    "configuration",
-    "topxel"
-  ],
+  "keywords": ["babel", "preset", "config", "configuration", "topxel"],
   "license": "MIT",
   "homepage": "https://github.com/topxel/babel-preset-topxel",
   "bugs": {
