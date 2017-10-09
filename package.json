@@ -1,0 +1,31 @@
+{
+  "name": "babel-preset-topxel",
+  "version": "1.0.0",
+  "description": "Topxel's Babel preset.",
+  "keywords": ["babel", "preset", "config", "configuration", "topxel"],
+  "license": "MIT",
+  "homepage": "https://github.com/topxel/babel-preset-topxel",
+  "bugs": {
+    "url": "https://github.com/topxel/babel-preset-topxel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:topxel/babel-preset-topxel.git"
+  },
+  "author": "Topxel <support@topxel.com> (https://topxel.com)",
+  "contributors": [
+    "Nerea Marta <nerea@topxel.com> (https://github.com/nereski)",
+    "Asier Martinez <asier@topxel.com> (https://github.com/asiermartinez)"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "peerDependencies": {
+    "babel-core": ">=6.26.0"
+  }
+}
